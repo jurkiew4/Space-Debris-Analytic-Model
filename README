@@ -1,0 +1,10 @@
+%%%%%%%%%
+SPACE DEBRIS ANALYTICAL MODEL
+Rights reserved: John Jurkiewicz, PhD
+
+Code for "A Population Dynamics Approach to the Distribution of Space Debris in Low-Earth Orbit"
+%%%%%%%%%
+
+Currently (1/10/2022) this repository consists of the legacy MATLAB code used to generate the data for the figures
+in the above paper. It is being actively maintained, and Python code for all programs will be uploaded, and this
+README will be updated correspondingly!
