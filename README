@@ -8,3 +8,7 @@ Code for "A Population Dynamics Approach to the Distribution of Space Debris in 
 Currently (1/10/2022) this repository consists of the legacy MATLAB code used to generate the data for the figures
 in the above paper. It is being actively maintained, and Python code for all programs will be uploaded, and this
 README will be updated correspondingly!
+
+The program driver.m implements the simulations and contains the parameters necessary. All parameters are copied
+in the file model.m used for the Backward Euler portion of the simulation; each must be changed in both files at the moment
+for changes to take effect.
